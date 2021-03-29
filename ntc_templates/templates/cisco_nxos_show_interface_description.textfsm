@@ -1,6 +1,6 @@
 Value PORT (\S+)
 Value TYPE (\S+)
-Value SPEED (\d+G?)
+Value SPEED (\d+G?|--)
 Value DESCRIPTION (\S.*?)
 
 Start
